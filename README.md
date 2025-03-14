@@ -14,7 +14,7 @@ Este é um script Python simples para auxiliar na organização de compras e des
 
 `Python` – Linguagem utilizada para criar o script.
 
-**Instalação e Execução**
+# Instalação e Execução
 
 Para rodar o script, basta ter o Python instalado na sua máquina.
 
